@@ -1,0 +1,11 @@
+com\zjtt\mapper\TbSpecificationMapper.class
+com\zjtt\mapper\TbContentMapper.class
+com\zjtt\mapper\TbTypeTemplateMapper.class
+com\zjtt\mapper\TbSellerMapper.class
+com\zjtt\mapper\TbContentCategoryMapper.class
+com\zjtt\mapper\TbItemCatMapper.class
+com\zjtt\mapper\TbGoodsDescMapper.class
+com\zjtt\mapper\TbGoodsMapper.class
+com\zjtt\mapper\TbItemMapper.class
+com\zjtt\mapper\TbSpecificationOptionMapper.class
+com\zjtt\mapper\TbBrandMapper.class

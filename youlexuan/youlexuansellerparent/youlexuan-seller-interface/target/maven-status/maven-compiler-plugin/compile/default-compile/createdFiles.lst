@@ -1,0 +1,11 @@
+com\zjtt\service\ItemCatService.class
+com\zjtt\service\ContentService.class
+com\zjtt\service\GoodsDescService.class
+com\zjtt\service\TypeTemplateService.class
+com\zjtt\service\BrandService.class
+com\zjtt\service\ItemService.class
+com\zjtt\service\GoodsService.class
+com\zjtt\service\ContentCategoryService.class
+com\zjtt\service\SellerService.class
+com\zjtt\service\SpecificationOptionService.class
+com\zjtt\service\SpecificationService.class

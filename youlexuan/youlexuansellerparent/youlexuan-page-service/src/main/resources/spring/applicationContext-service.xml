@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context" xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:aop="http://www.springframework.org/schema/aop" xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.2.xsd
+	http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.2.xsd
+	http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.2.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.2.xsd
+	http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-4.2.xsd http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+    <!--扫描service所在的包-->
+    <context:component-scan base-package="com.zjtt.page.service"></context:component-scan>
+
+    <bean id="freeMarkerConfigurer"	class="org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer">
+        <property name="templateLoaderPath" value="/WEB-INF/ftl/" />
+        <property name="defaultEncoding" value="UTF-8" />
+    </bean>
+
+
+    <!--发布服务，暴露bookservice接口-->
+    <dubbo:application name="book-service"></dubbo:application>
+    <!--注册中心的地址  address就是当前安装zookeeper机器的地址-->
+    <dubbo:registry protocol="zookeeper" address="192.168.254.130:2181"></dubbo:registry>
+    <!--dubbo协议暴露的端口  端口  0 - 65535 -->
+    <dubbo:protocol name="dubbo" port="33353"></dubbo:protocol>
+    <!--声明要暴露的服务-->
+    <dubbo:annotation package="com.zjtt.page.service.impl"></dubbo:annotation>
+
+</beans>

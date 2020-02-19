@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="redisDemo" />
+        <module name="solrDemo" />
+        <module name="youlexuan-content-interface" />
+        <module name="youlexuan-content-service" />
+        <module name="youlexuan-content-web" />
+        <module name="youlexuan-manager-web" />
+        <module name="youlexuan-page-interface" />
+        <module name="youlexuan-page-service" />
+        <module name="youlexuan-search-interface" />
+        <module name="youlexuan-search-service" />
+        <module name="youlexuan-search-web" />
+        <module name="youlexuan-seller-dao" />
+        <module name="youlexuan-seller-interface" />
+        <module name="youlexuan-seller-pojo" />
+        <module name="youlexuan-seller-service" />
+        <module name="youlexuan-shop-web" />
+        <module name="youlexuan-solr-util" />
+        <module name="youlexue-seller-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="redisDemo" target="1.5" />
+      <module name="solrDemo" target="1.8" />
+      <module name="youlexuan-content-interface" target="1.7" />
+      <module name="youlexuan-content-service" target="1.7" />
+      <module name="youlexuan-content-web" target="1.7" />
+      <module name="youlexuan-manager-web" target="1.7" />
+      <module name="youlexuan-page-interface" target="1.7" />
+      <module name="youlexuan-page-service" target="1.7" />
+      <module name="youlexuan-search-interface" target="1.7" />
+      <module name="youlexuan-search-service" target="1.7" />
+      <module name="youlexuan-search-web" target="1.7" />
+      <module name="youlexuan-seller-dao" target="1.7" />
+      <module name="youlexuan-seller-interface" target="1.7" />
+      <module name="youlexuan-seller-parent" target="1.7" />
+      <module name="youlexuan-seller-pojo" target="1.7" />
+      <module name="youlexuan-seller-service" target="1.7" />
+      <module name="youlexuan-shop-web" target="1.7" />
+      <module name="youlexuan-solr-util" target="1.7" />
+      <module name="youlexue-seller-common" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

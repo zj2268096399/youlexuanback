@@ -1,0 +1,9 @@
+com\zjtt\controller\GoodsController.class
+com\zjtt\controller\ItemCatController.class
+com\zjtt\controller\SellerController.class
+com\zjtt\controller\GoodsDescController.class
+com\zjtt\controller\TypeTemplateController.class
+com\zjtt\authentication\UserDetailServiceImpl.class
+com\zjtt\controller\UploadFileController.class
+com\zjtt\controller\ItemController.class
+com\zjtt\controller\LoginController.class

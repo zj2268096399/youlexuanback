@@ -1,0 +1,11 @@
+com\zjtt\controller\ItemCatController.class
+com\zjtt\controller\SpecificationController.class
+com\zjtt\controller\ContentCategoryController.class
+com\zjtt\controller\TypeTemplateController.class
+com\zjtt\controller\BrandController.class
+com\zjtt\controller\LoginController.class
+com\zjtt\controller\GoodsController.class
+com\zjtt\controller\SellerController.class
+com\zjtt\controller\UploadFileController.class
+com\zjtt\controller\ContentController.class
+com\zjtt\controller\SpecificationOptionController.class

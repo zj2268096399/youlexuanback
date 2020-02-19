@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/redisDemo/redisDemo.iml" filepath="D:/redisDemo/redisDemo.iml" />
+      <module fileurl="file://D:/solrDemo/solrDemo.iml" filepath="D:/solrDemo/solrDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/youlexuan.iml" filepath="$PROJECT_DIR$/.idea/youlexuan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-content-interface/youlexuan-content-interface.iml" filepath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-content-interface/youlexuan-content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-content-service/youlexuan-content-service.iml" filepath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-content-service/youlexuan-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-content-web/youlexuan-content-web.iml" filepath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-content-web/youlexuan-content-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-manager-web/youlexuan-manager-web.iml" filepath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-manager-web/youlexuan-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-page-interface/youlexuan-page-interface.iml" filepath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-page-interface/youlexuan-page-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-page-service/youlexuan-page-service.iml" filepath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-page-service/youlexuan-page-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-interface/youlexuan-search-interface.iml" filepath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-interface/youlexuan-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-service/youlexuan-search-service.iml" filepath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-service/youlexuan-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/youlexuan-search-web.iml" filepath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/youlexuan-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-seller-dao/youlexuan-seller-dao.iml" filepath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-seller-dao/youlexuan-seller-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-seller-interface/youlexuan-seller-interface.iml" filepath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-seller-interface/youlexuan-seller-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-seller-parent.iml" filepath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-seller-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-seller-pojo/youlexuan-seller-pojo.iml" filepath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-seller-pojo/youlexuan-seller-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-seller-service/youlexuan-seller-service.iml" filepath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-seller-service/youlexuan-seller-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-shop-web/youlexuan-shop-web.iml" filepath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-shop-web/youlexuan-shop-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-solr-util/youlexuan-solr-util.iml" filepath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-solr-util/youlexuan-solr-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexue-seller-common/youlexue-seller-common.iml" filepath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexue-seller-common/youlexue-seller-common.iml" />
+    </modules>
+  </component>
+</project>

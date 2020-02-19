@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac6068ad-bdbf-4cff-a0d2-8e5bb7b19dd2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/youlexuansellerparent/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuan-seller-dao/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-interface/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-dao/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-service/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuansellerparent/youlexue-seller-common/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuansellerparent/youlexuan-shop-web/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-interface/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/target/" />
+    <ignored path="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="138747038">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="conf" value="7" />
+          <entry key="css" value="2" />
+          <entry key="fxml" value="1" />
+          <entry key="html" value="114" />
+          <entry key="java" value="238" />
+          <entry key="js" value="149" />
+          <entry key="kt" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="223" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="114" />
+          <entry key="JAVA" value="238" />
+          <entry key="JavaScript" value="149" />
+          <entry key="Kotlin" value="1" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="224" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="conf" value="21" />
+          <entry key="dummy" value="5" />
+          <entry key="html" value="7940" />
+          <entry key="java" value="5736" />
+          <entry key="js" value="7166" />
+          <entry key="xml" value="1559" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="7940" />
+          <entry key="JAVA" value="5736" />
+          <entry key="JavaScript" value="7166" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="SQL" value="5" />
+          <entry key="XML" value="1554" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="youlexuan" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/webapp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="534" column="54" selection-start-line="534" selection-start-column="54" selection-end-line="534" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/webapp/controller/contentController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="84" column="39" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dubbo</find>
+      <find>修改资料</find>
+      <find>delete</find>
+      <find>update</find>
+      <find>sellerMapper</find>
+      <find>TbSeller</find>
+      <find>brand</find>
+      <find>selectByExample</find>
+      <find>select</find>
+      <find>扩展</find>
+      <find>属性</find>
+      <find>新建</find>
+      <find>上传</find>
+      <find>from</find>
+      <find>规格</find>
+      <find>扩展属性</find>
+      <find>返回</find>
+      <find>insert</find>
+      <find>baocun</find>
+      <find>&lt;p&gt;</find>
+      <find>&lt;/p&gt;</find>
+      <find>修改</find>
+      <find>item</find>
+      <find>location</find>
+      <find>response.tbGoodsDesc.specificationItems</find>
+      <find>$scope.entity.tbGoodsDesc.specificationItems</find>
+      <find>$scope.entity.tbGoodsDesc.customAttributeItems</find>
+      <find>删除</find>
+      <find>fil</find>
+      <find>轮播</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>sellerService</replace>
+      <replace>seller</replace>
+      <replace>{{name}}</replace>
+      <replace>{{loginname}}</replace>
+      <replace>goodsMapper</replace>
+      <replace>TbGoods</replace>
+      <replace>goods</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-dao/src/main/resources/mapper/TbGoodsMapper.xml" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-interface/src/main/java/com/zjtt/service/ItemService.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-shop-web/src/main/java/com/zjtt/controller/GoodsDescController.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-shop-web/src/main/java/com/zjtt/controller/ItemController.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-service/src/main/java/com/zjtt/service/impl/GoodsDescServiceImpl.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-service/src/main/java/com/zjtt/service/impl/ItemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-shop-web/src/main/webapp/admin/goods.html" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-shop-web/src/main/webapp/service/goodsService.js" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-shop-web/src/main/java/com/zjtt/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-interface/src/main/java/com/zjtt/service/GoodsService.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/webapp/service/goodsService.js" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-shop-web/src/main/resources/springmvc/springmvc.xml" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/java/com/zjtt/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/webapp/admin/goods.html" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-shop-web/src/main/webapp/admin/goods_edit.html" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-interface/src/main/java/com/zjtt/service/ContentCategoryService.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-service/src/main/java/com/zjtt/service/impl/ContentCategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-service/src/main/java/com/zjtt/service/impl/ContentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-interface/src/main/java/com/zjtt/service/ContentService.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/java/com/zjtt/controller/ContentCategoryController.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/java/com/zjtt/controller/ContentController.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/resources/springmvc/springmvc.xml" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-service/src/main/java/com/zjtt/service/impl/GoodsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-shop-web/src/main/webapp/service/fileUploadService.js" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-shop-web/src/main/webapp/controller/goodsController.js" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/webapp/controller/goodsController.js" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-dao/src/main/resources/spring/applicationContext-dao.xml" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/webapp/admin/content_category.html" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/webapp/controller/contentController.js" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/webapp/admin/content.html" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/java/com/zjtt/controller/ContentCategoryController.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-service/src/main/java/com/zjtt/service/ContentCategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-service/src/main/java/com/zjtt/service/ContentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-interface/src/main/java/com/zjtt/service/ContentCategoryService.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-service/src/main/java/com/zjtt/service/Impl/ContentCategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/webapp/service/contentService.js" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/java/com/zjtt/controller/ContentController.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-service/src/main/java/com/zjtt/service/Impl/ContentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-interface/src/main/java/com/zjtt/service/ContentService.java" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/resources/springmvc/springmvc.xml" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-service/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/webapp/controller/contentController.js" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/webapp/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\program files\maven\MavenRepository\.m2\repository" />
+        <option name="mavenHome" value="D:/program files/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\program files\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="youlexuan-manager-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="youlexuan-manager-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="youlexuan-manager-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="tomcat7" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/webapp/plugins/select2/package.json" />
+      <path value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-shop-web/src/main/webapp/plugins/select2/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1383" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>EncapsulationJava</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+          <State>
+            <id>SetupSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring BatchSpring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring CloudSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Spring IntegrationSpring</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring</id>
+          </State>
+          <State>
+            <id>Spring OSGiSpring</id>
+          </State>
+          <State>
+            <id>Spring SecuritySpring</id>
+          </State>
+          <State>
+            <id>Spring Web FlowSpring</id>
+          </State>
+          <State>
+            <id>Spring Web ServicesSpring</id>
+          </State>
+          <State>
+            <id>Spring WebSocketSpring</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zjtt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zjtt" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zjtt" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="Impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zjtt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zjtt" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-content-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-seller-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-seller-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-seller-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-seller-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youlexuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youlexuansellerparent" type="462c0819:PsiDirectoryNode" />
+              <item name="youlexuan-seller-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579178440298" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-service/src/main/webapp" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3563084" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ZJTT\youlexuan\youlexuansellerparent\youlexuan-content-web\src\main\webapp\plugins" />
+      <recent name="E:\ZJTT\youlexuan\youlexuansellerparent\youlexuan-content-web\src\main\webapp\service" />
+      <recent name="E:\ZJTT\youlexuan\youlexuansellerparent\youlexuan-content-web\src\main\webapp\controller" />
+      <recent name="E:\ZJTT\youlexuan\youlexuansellerparent\youlexuan-content-web\src\main\webapp" />
+      <recent name="E:\ZJTT\youlexuan\youlexuansellerparent\youlexuan-content-interface\src\main\java\com\zjtt\service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zjtt.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ZJTT\youlexuan\youlexuansellerparent\youlexuan-manager-web\src\main\webapp\service" />
+      <recent name="E:\ZJTT\youlexuan\youlexuansellerparent\youlexuan-shop-web\src\main\webapp\admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac6068ad-bdbf-4cff-a0d2-8e5bb7b19dd2" name="Default Changelist" comment="" />
+      <created>1578022013260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578022013260</updated>
+      <workItem from="1578022016763" duration="14544000" />
+      <workItem from="1578301016330" duration="11556000" />
+      <workItem from="1578313240045" duration="124036000" />
+      <workItem from="1578875965835" duration="87190000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="237326000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.49425286" side_tool="true" weight="0.2281491" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Web" order="5" sideWeight="0.5025381" side_tool="true" weight="0.2281491" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49872774" visible="true" weight="0.24550128" />
+      <window_info id="JRebel" order="7" side_tool="true" />
+      <window_info id="Structure" order="8" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.4138889" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32916668" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5012854" side_tool="true" weight="0.36944443" />
+      <window_info anchor="bottom" id="Java Enterprise" order="3" weight="0.32916668" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="6" />
+      <window_info anchor="bottom" id="JRebel Console" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32916668" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.3625" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49871466" weight="0.6166667" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" weight="0.32916668" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.35604113" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32969153" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-interface/src/main/java/com/zjtt/service/ContentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-service/src/main/java/com/zjtt/service/impl/ContentCategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/java/com/zjtt/controller/ContentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/java/com/zjtt/controller/ContentCategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/webapp/service/contentService.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-shop-web/src/main/resources/springmvc/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="217" column="25" selection-start-line="177" selection-start-column="12" selection-end-line="217" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="94" column="21" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-service/src/main/java/com/zjtt/service/impl/GoodsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-shop-web/src/main/java/com/zjtt/authentication/UserDetailServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-shop-web/src/main/webapp/service/fileUploadService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-shop-web/src/main/webapp/controller/goodsController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7830">
+          <caret line="290" column="9" lean-forward="true" selection-start-line="290" selection-start-column="9" selection-end-line="290" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-shop-web/src/main/webapp/admin/goods_edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/webapp/controller/goodsController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2673">
+          <caret line="1" column="92" selection-start-line="1" selection-start-column="92" selection-end-line="1" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/resources/conf/fdfs.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/resources/spring/applicationContext-security.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/java/com/zjtt/controller/UploadFileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexue-seller-common/src/main/java/com/zjtt/util/FastDFSClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="31" column="50" lean-forward="true" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-dao/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="34" column="53" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-shop-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/webapp/service/fileUploadService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/webapp/base/baseController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/webapp/controller/contentCategoryController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="55" column="15" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/webapp/controller/contentController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1322">
+          <caret line="84" column="13" lean-forward="true" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/webapp/admin/content_category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="72" column="129" selection-start-line="72" selection-start-column="129" selection-end-line="72" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/webapp/admin/content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="154" column="25" lean-forward="true" selection-start-line="154" selection-start-column="25" selection-end-line="154" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="19" selection-start-line="12" selection-start-column="4" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/webapp/admin/brand.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="23" column="60" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="23" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/webapp/base/baseController.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/webapp/controller/contentCategoryController.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/webapp/plugins/angularjs/pagination.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#153#160#1" expanded="true" />
+            <element signature="e#451#458#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web/src/main/resources/springmvc/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/java/com/zjtt/controller/ContentCategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-interface/src/main/java/com/zjtt/service/ContentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1647">
+          <caret line="61" column="14" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-interface/src/main/java/com/zjtt/service/ContentCategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-service/src/main/java/com/zjtt/service/Impl/ContentCategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-service/src/main/java/com/zjtt/service/Impl/ContentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2835">
+          <caret line="116" column="26" lean-forward="true" selection-start-line="116" selection-start-column="26" selection-end-line="116" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/resources/springmvc/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/webapp/service/contentService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="34" column="64" lean-forward="true" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/java/com/zjtt/controller/ContentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="120" column="52" selection-start-line="120" selection-start-column="49" selection-end-line="120" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="81" column="24" selection-start-line="67" selection-start-column="6" selection-end-line="81" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="13" column="77" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="48" column="28" lean-forward="true" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/webapp/controller/contentController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="84" column="39" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="534" column="54" selection-start-line="534" selection-start-column="54" selection-end-line="534" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>youlexuan-shop-web:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3563084" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (youlexuan-shop-web)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3563084" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|youlexuan-content-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3563084" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3563084" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

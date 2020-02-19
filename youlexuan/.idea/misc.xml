@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-content-web" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-service" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuansellerparent/youlexuan-shop-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/youlexuansellerparent/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuansellerparent/youlexuan-seller-pojo/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

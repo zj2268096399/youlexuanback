@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xmlns:security="http://www.springframework.org/schema/security"
+       xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.2.xsd
+        http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-4.2.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.2.xsd
+       http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security.xsd
+       http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+    <security:http pattern="/favicon.ico" security="none"></security:http>
+    <security:http pattern="/shoplogin.html" security="none"></security:http>
+    <security:http pattern="/register.html" security="none"></security:http>
+    <security:http pattern="/seller/add.do" security="none"></security:http>
+    <security:http pattern="/base/**" security="none"></security:http>
+    <security:http pattern="/controller/**" security="none"></security:http>
+    <security:http pattern="/service/**" security="none"></security:http>
+    <security:http pattern="/css/**" security="none"></security:http>
+    <security:http pattern="/img/**" security="none"></security:http>
+    <security:http pattern="/plugins/**" security="none"></security:http>
+
+
+    <security:http use-expressions="false" >
+        <security:intercept-url pattern="/**" access="ROLE_SELLER"></security:intercept-url>
+        <!--登录-->
+        <security:form-login login-page="/shoplogin.html" authentication-failure-url="/shoplogin.html" default-target-url="/admin/index.html" always-use-default-target="true" ></security:form-login>
+       <!--注销-->
+        <security:logout></security:logout>
+        <!--Could not verify the provided CSRF token because your session was not found.-->
+        <security:csrf disabled="true"></security:csrf>
+        <!--in a frame because it set 'X-Frame-Options' to 'deny'.-->
+        <security:headers>
+            <!--如果系统中使用了框架，需要指定框架页的策略为SAMEORIGIN-->
+            <security:frame-options policy="SAMEORIGIN"></security:frame-options>
+        </security:headers>
+    </security:http>
+
+   <!--接收服务-->
+    <dubbo:application name="book-controller"></dubbo:application>
+    <!--知道到注册中心-->
+    <dubbo:registry protocol="zookeeper" address="192.168.254.130:2181"></dubbo:registry>
+    <!--从注册中心获取服务-->
+    <dubbo:reference interface="com.zjtt.service.SellerService" id="sellerService"></dubbo:reference>
+    <!--UserdetailServic userdetialService = new UserDetailServieImpl()-->
+    <bean id="userDetailsService" class="com.zjtt.authentication.UserDetailServiceImpl">
+    <property name="sellerService" ref="sellerService"></property>
+    </bean>
+    <!--数据库查询密码是密文，在页面输入的是明文-->
+    <bean id="md5PasswordEncoder" class="org.springframework.security.authentication.encoding.Md5PasswordEncoder"></bean>
+
+
+    <!--认证管理-->
+
+    <security:authentication-manager>
+        <security:authentication-provider user-service-ref="userDetailsService">
+            <security:password-encoder ref="md5PasswordEncoder"></security:password-encoder>
+        </security:authentication-provider>
+    </security:authentication-manager>
+</beans>

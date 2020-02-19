@@ -1,0 +1,1 @@
+var app = angular.module('youlexuan',['pagination']); // 自定义模块，增加分页模块
