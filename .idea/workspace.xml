@@ -2,56 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c664f4e-6deb-431f-82ae-17f7459654c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/youlexuan_page_service_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/youlexuan_page_service_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/youlexuan_search_web_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/youlexuan_search_web_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-page-interface/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-page-interface/src/main/java/com/zjtt/page/service/ItemPageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-page-interface/youlexuan-page-interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-page-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-page-service/src/main/java/com/zjtt/page/service/impl/ItemPageServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-page-service/src/main/resources/properties/page.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-page-service/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-page-service/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-page-service/youlexuan-page-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-interface/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-interface/src/main/java/com/zjtt/search/service/ItemSearchService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-interface/youlexuan-search-interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-service/src/main/java/com/zjtt/search/service/impl/ItemSearchServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-service/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-service/src/main/resources/spring/applicationContext-solr.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-service/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-service/youlexuan-search-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/src/main/java/com/zjtt/search/controller/ItemSearchController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/src/main/resources/springmvc/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/src/main/webapp/base/baseController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/src/main/webapp/base/baseNoPagination.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/src/main/webapp/base/basePagination.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/src/main/webapp/controller/searchController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/src/main/webapp/plugins/angularjs/angular-animate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/src/main/webapp/plugins/angularjs/angular-route.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/src/main/webapp/plugins/angularjs/angular.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/src/main/webapp/plugins/angularjs/pagination.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/src/main/webapp/plugins/angularjs/pagination.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/src/main/webapp/service/searchService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/youlexuan-search-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-solr-util/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-solr-util/src/main/java/com/zjtt/solrutil/SolrUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-solr-util/src/main/resources/spring/applicationContext-solr-util.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-solr-util/src/main/resources/spring/applicationContext-solr.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-solr-util/youlexuan-solr-util.iml" afterDir="false" />
       <change beforePath="D:/redisDemo/src/main/resources/properties/redis-config.properties" beforeDir="false" afterPath="D:/redisDemo/src/main/resources/properties/redis-config.properties" afterDir="false" />
       <change beforePath="D:/redisDemo/src/main/resources/spring/applicationContext-redis.xml" beforeDir="false" afterPath="D:/redisDemo/src/main/resources/spring/applicationContext-redis.xml" afterDir="false" />
       <change beforePath="D:/redisDemo/target/classes/properties/redis-config.properties" beforeDir="false" afterPath="D:/redisDemo/target/classes/properties/redis-config.properties" afterDir="false" />
       <change beforePath="D:/redisDemo/target/classes/spring/applicationContext-redis.xml" beforeDir="false" afterPath="D:/redisDemo/target/classes/spring/applicationContext-redis.xml" afterDir="false" />
       <change beforePath="D:/solrDemo/src/main/resources/spring-solr.xml" beforeDir="false" afterPath="D:/solrDemo/src/main/resources/spring-solr.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-content-web/target/" />
     <ignored path="$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-content-interface/target/" />
@@ -173,8 +129,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/src/main/resources/springmvc/springmvc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="24" column="60" lean-forward="true" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+            <state relative-caret-position="382">
+              <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -390,7 +346,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582103218661" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582104829890" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -523,7 +479,7 @@
       <workItem from="1581938899883" duration="7407000" />
       <workItem from="1582025268201" duration="11221000" />
       <workItem from="1582077224193" duration="4442000" />
-      <workItem from="1582097948799" duration="2340000" />
+      <workItem from="1582097948799" duration="4139000" />
     </task>
     <task id="LOCAL-00001" summary="这是一个redis的小demo">
       <created>1581511938802</created>
@@ -568,7 +524,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104444000" />
+    <option name="totallyTimeSpent" value="106243000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -957,8 +913,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/youlexuan/youlexuansellerparent/youlexuan-search-web/src/main/resources/springmvc/springmvc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="24" column="60" lean-forward="true" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+        <state relative-caret-position="382">
+          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
         </state>
       </provider>
     </entry>
