@@ -50,7 +50,7 @@
         <jedis.version>2.7.2</jedis.version>
         <spring-jedis.version>1.6.0.RELEASE</spring-jedis.version>
         <dubbo.version>2.5.3</dubbo.version>
-        <zookeeper.version>3.4.7</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <zkclient.version>0.1</zkclient.version>
         <activemq.version>5.11.2</activemq.version>
         <freemarker.version>2.3.23</freemarker.version>
